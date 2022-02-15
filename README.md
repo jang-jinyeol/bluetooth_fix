@@ -1,1 +1,1 @@
-# bluetooth_fix
+# apt-get install p7zip
